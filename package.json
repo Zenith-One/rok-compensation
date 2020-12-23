@@ -12,6 +12,7 @@
     "@types/node": "^14.14.14",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "express": "^4.17.1",
     "i": "^0.3.6",
     "node-sass": "^4.14.1",
     "react": "^17.0.1",
@@ -24,8 +25,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "verify": "serve -s build",
-    "predeploy": "npm run build",
+    "verify": "node scripts/serve.js",
     "deploy": "git subtree push --prefix build origin gh-pages",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
