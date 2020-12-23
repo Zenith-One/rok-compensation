@@ -1,0 +1,24 @@
+.troop-entry-row {
+  padding: 0.5em;
+  border-bottom: 1px solid #ddd;
+}
+
+.troop-entry-field {
+  margin-right: 1em !important;
+}
+
+.buttons {
+  margin-top: 3em;
+  position: relative;
+
+  .left {
+    position: absolute;
+    left: 2em;
+  }
+
+  .right {
+    position: absolute;
+    right: 2em;
+  }
+
+}

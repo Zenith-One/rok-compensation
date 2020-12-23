@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+table {
+  width: 100%;
+  margin: 2em 0;
+}
+table thead td {
+  font-weight: bold;
+}
+table td {
+  width: 18%;
+  text-align: center;
+}
