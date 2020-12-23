@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rok-compensation/static/css/main.c086ff21.chunk.css",
-    "main.js": "/rok-compensation/static/js/main.afa350fd.chunk.js",
-    "main.js.map": "/rok-compensation/static/js/main.afa350fd.chunk.js.map",
+    "main.js": "/rok-compensation/static/js/main.ca5676d4.chunk.js",
+    "main.js.map": "/rok-compensation/static/js/main.ca5676d4.chunk.js.map",
     "runtime-main.js": "/rok-compensation/static/js/runtime-main.05e71d9c.js",
     "runtime-main.js.map": "/rok-compensation/static/js/runtime-main.05e71d9c.js.map",
     "static/css/2.fe708519.chunk.css": "/rok-compensation/static/css/2.fe708519.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.fe708519.chunk.css",
     "static/js/2.5cbac91b.chunk.js",
     "static/css/main.c086ff21.chunk.css",
-    "static/js/main.afa350fd.chunk.js"
+    "static/js/main.ca5676d4.chunk.js"
   ]
 }
